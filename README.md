@@ -24,7 +24,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Typescript
-- React.js
+- React
 - Vite
 - Tailwind
 - API Speech Recording
